@@ -1,6 +1,6 @@
 ## Covoid
 
-### Won 1st place prize from Ekal Appathon and $500 Amazon gift card.
+### Won 1st place prize at Ekal Appathon
 
 ### Inspiration
 The rising cases of COVID-19 have put the entire world in a depressive state. We took this opportunity to spread awareness that COVID-19 is a serious issue and how we can all do our part to battle it. This game teaches the importance of PPE, and staying away from viruses to protect your health in a challenging yet fun way! As we approach another COVID-19 wave, yes we still are in one (sad), we hope to simulate the difficulty of handling the different waves. Everytime we experience a COVID-19 wave, the situation seems to drastically become more dangerous. The third wave is coming fast and Covoid will help understand how much effort is needed to keep our loved ones alive.
